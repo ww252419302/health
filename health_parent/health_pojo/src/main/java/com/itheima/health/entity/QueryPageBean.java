@@ -2,6 +2,7 @@ package com.itheima.health.entity;
 
 import java.io.Serializable;
 
+
 public class QueryPageBean implements Serializable {
 
     private Integer currentPage;//页码
